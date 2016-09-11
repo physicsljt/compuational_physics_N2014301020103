@@ -3,4 +3,5 @@
 >物理学基地班二班
 >李金庭
 #homework
--[x]exercise_1
+-[x]exercise_1()
+*[x]exercise_2()
