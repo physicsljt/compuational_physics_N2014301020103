@@ -3,16 +3,16 @@
 >物理学基地班二班
 >李金庭
 #exercise
-*[chapter one]：create my homework list
-*[chapter two]：
-*[chapter three]：
-*[chapter four]：
-*[chapter five]：
-*[chapter six]：
-*[chapter seven]：
-*[chapter eight]：
-*[chapter ten]：
-*[chapter eleven]:
-*[chapter twelve]:
-*[chapter thirteen]:
-*[chapter fourteen]:
+* [chapter one：]create my homework list
+*[chapter two：]
+*[chapter three：]
+*[chapter four：]
+*[chapter five：]
+*[chapter six：]
+*[chapter seven：]
+*[chapter_eight：]
+*[chapter_ten：]
+*[chapter_eleven:]
+*[chapter_twelve:]
+*[chapter_thirteen:]
+*[chapter_fourteen:]
