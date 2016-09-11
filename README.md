@@ -5,4 +5,11 @@
 #homework
 * [Exercise_01:]()
 * [Exercise_02:]()
-* [-[x]Exercise_03:]()
+* [Exercise_03:]()
+* [Exercise_03:]()
+* * [Exercise_03:]()
+* * [Exercise_03:]()
+* * [Exercise_03:]()
+* * [Exercise_03:]()
+* * [Exercise_03:]()
+* * [Exercise_03:]()
