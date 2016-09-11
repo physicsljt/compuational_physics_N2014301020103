@@ -2,6 +2,7 @@
 >compuational_physics_N2014301020103
 >物理学基地班二班
 >李金庭
+#exercise
 *[chapter one]：create my homework list
 *[chapter two]：
 *[chapter three]：
