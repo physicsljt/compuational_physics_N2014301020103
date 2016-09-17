@@ -3,8 +3,8 @@
 >物理学基地班二班
 >李金庭
 #homework
-- [ ] [Exercise_01:]()
-- [ ] [Exercise_02:]()
+- [ x ] [Exercise_01:](https://github.com/physicsljt/compuational_physics_N2014301020103)
+- [ x ] [Exercise_02:]()
 - [ ] [Exercise_03:]()
 - [ ] [Exercise_04:]()
 - [ ] [Exercise_05:]()
