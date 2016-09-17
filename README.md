@@ -4,7 +4,7 @@
 >李金庭
 #homework
 - [x] [Exercise_01:](https://github.com/physicsljt/compuational_physics_N2014301020103)
-- [x] [Exercise_02:]()
+- [x] [Exercise_02:](https://github.com/physicsljt/compuational_physics_N2014301020103/blob/master/exercise2)
 - [ ] [Exercise_03:]()
 - [ ] [Exercise_04:]()
 - [ ] [Exercise_05:]()
