@@ -5,7 +5,7 @@
 #homework
 - [x] [Exercise_01:](https://github.com/physicsljt/compuational_physics_N2014301020103)
 - [x] [Exercise_02:](https://www.zybuluo.com/ljt/note/497081)
-- [ ] [Exercise_03:]()
+- [x] [Exercise_03:](https://www.zybuluo.com/ljt/note/513244)
 - [ ] [Exercise_04:]()
 - [ ] [Exercise_05:]()
 - [ ] [Exercise_06:]()
