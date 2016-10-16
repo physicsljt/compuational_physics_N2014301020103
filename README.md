@@ -7,7 +7,7 @@
 - [x] [Exercise_02:](https://www.zybuluo.com/ljt/note/497081)
 - [x] [Exercise_03:](https://www.zybuluo.com/ljt/note/513244)
 - [x] [Exercise_04:](https://www.zybuluo.com/ljt/note/525977)
-- [ ] [Exercise_05:]()
+- [x] [Exercise_05:](https://www.zybuluo.com/ljt/note/534149)
 - [ ] [Exercise_06:]()
 - [ ] [Exercise_07:]()
 - [ ] [Exercise_08:]()
