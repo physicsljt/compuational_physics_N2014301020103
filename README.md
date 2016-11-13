@@ -10,7 +10,7 @@
 - [x] [Exercise_05:](https://www.zybuluo.com/ljt/note/534149)
 - [x] [Exercise_06:](https://www.zybuluo.com/ljt/note/540632)
 - [x] [Exercise_07:](https://www.zybuluo.com/ljt/note/542162)
-- [ ] [Exercise_08:]()
+- [x] [Exercise_08:](https://www.zybuluo.com/mdeditor#557265)
 - [ ] [Exercise_09:]()
 - [ ] [Exercise_10:]()
 - [ ] [Exercise_11:]()
