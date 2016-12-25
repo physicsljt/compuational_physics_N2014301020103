@@ -15,5 +15,5 @@
 - [x] [Exercise_10:](https://www.zybuluo.com/ljt/note/581701)
 - [x] [Exercise_11:](https://www.zybuluo.com/ljt/note/589975)
 - [x] [Exercise_12:](https://www.zybuluo.com/ljt/note/597832)
-- [ ] [Exercise_13:]()
-- [ ] [Exercise_14:]()
+- [x] [Exercise_13:](https://www.zybuluo.com/ljt/note/612311)
+- [x] [期末作业：](https://www.zybuluo.com/ljt/note/612312)
